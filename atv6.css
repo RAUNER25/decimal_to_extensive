@@ -1,0 +1,39 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.form {
+	padding: 30px 15px;
+}
+.form .controls input {
+	width: 98%;
+}
+.form .actions {
+	text-align: center;
+}
+.btn {
+	padding: 5px 15px;
+	margin-top: 30px;
+	background-color: #1c1df1;
+	border: solid 1px #4c6bd3;
+	color: white;
+	font-weight: bold;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+
+}
+
+.box {
+	width: 400px;
+	margin:0 auto;
+	border:5px solid #ccc;
+
+}
+
